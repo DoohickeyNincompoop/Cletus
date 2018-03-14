@@ -1,8 +1,0 @@
-public class QuickSortTester
-{
-    public static void main(String[] args){
-	for(int i = 1; i < 2000; i += 100}{
-	    long past,current;
-	    int[] x = Quicksort.shuffle(QuickSort.buildArray(i,i));
-	    past = System.nanoTime();
-	    QuickSort.qsort(x);
