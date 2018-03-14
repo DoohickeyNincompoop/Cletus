@@ -1,4 +1,4 @@
-//Kerwin Chen
+//Hillbilly-Cletus: Kerwin Chen,Clarence Cheng, Hanry Carver
 //APCS2 pd1
 //HW18 -- QuickSort
 //2018-03-13
