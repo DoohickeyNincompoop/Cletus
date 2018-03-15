@@ -13,7 +13,7 @@ QuickSort
 Essentially, what you are doing is that you are partitioning the array into two sections, one section that is lower and one section that is higher, and then yourecursively do that with each of the left and right parts, picking partitions and sorting them into the "bigger" and "smaller" piles".
 
 ![Graph ](chart1.png)
-![Graph avgChart](Avgchart.png)
+![Graph avgChart](chartAVG.png)
 
 # Conclusion
 We were expecting an increase as the array size increased, but instead of a logarithmic increase, we got a more linear increase. We are not sure why. 
