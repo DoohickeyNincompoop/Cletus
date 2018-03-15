@@ -5,6 +5,11 @@ Clarence Cheng, Kerwin Chen, George Washington Carver Jr.
 # Hypothesis
 Given that the size of an array n, its runtime in a circumstance most unfavorable would be O(n^2)
 
+# Assesment
+Best Case - If the pvtPos is consistently ub the middle
+Worst Case- If the pvtPos is always at the ends
+MostLikely Case- If the pvtPos fluctuates between the two
+
 # Background
 In this lab we searched through arrays using a special partition() method. We used many varying sizes to show us an average runtime for the entire thing. 
 
